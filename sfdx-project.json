@@ -1,0 +1,16 @@
+{
+  "packageDirectories" : [ {
+    "path" : "ganjisfdx",
+    "default" : true,
+    "package" : "ganjisfdx",
+    "versionName" : "ganjisfdx",
+    "versionNumber" : "1.0.0.0"
+  } ],
+  "namespace" : "",
+  "sfdcLoginUrl" : "https://login.salesforce.com",
+  "sourceApiVersion" : "48.0",
+  "packageAliases" : {
+    "ganjisfdx" : "0Ho2x000000CaT3CAK",
+    "ganjisfdx@1.0.0.0" : "04t2x0000023I0nAAE"
+  }
+}
