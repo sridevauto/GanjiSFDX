@@ -1,5 +1,10 @@
 {
   "packageDirectories" : [ {
+
+=======
+    "path" : "force-app",
+    "default" : false
+  }, {
     "path" : "ganjisfdx",
     "default" : true,
     "package" : "ganjisfdx",
